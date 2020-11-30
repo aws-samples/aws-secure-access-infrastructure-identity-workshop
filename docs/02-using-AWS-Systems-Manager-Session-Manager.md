@@ -188,7 +188,7 @@ chmod 400 MyKeyPair.pem
 4.Go back to the CloudFormation Stack, copy the following to your scratchpad:
 
  * Find the stack that starts with "aws-cloud9-" click on **Resources**, copy the ID next to the **InstanceSecurityGroup**
- * Find the stack named "InfrastructureIdentity-Env-Setup", click on **Resources**, copy the ID next to **PublicSubnet1** to the same scratch pad
+ * Find the stack named "Infrastructure-Identity", click on **Resources**, copy the ID next to **PublicSubnet1** to the same scratch pad
 
 
 !!! Tip
