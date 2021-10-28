@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://infrastructure-identity.awssecworkshops.com/</loc>
-     <lastmod>2020-09-16</lastmod>
+     <lastmod>2021-10-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://infrastructure-identity.awssecworkshops.com/01-environment-setup/</loc>
-     <lastmod>2020-09-16</lastmod>
+     <lastmod>2021-10-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://infrastructure-identity.awssecworkshops.com/02-using-AWS-Systems-Manager-Session-Manager/</loc>
-     <lastmod>2020-09-16</lastmod>
+     <lastmod>2021-10-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://infrastructure-identity.awssecworkshops.com/03-using-EC2-Instance-Connect/</loc>
-     <lastmod>2020-09-16</lastmod>
+     <lastmod>2021-10-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://infrastructure-identity.awssecworkshops.com/04-cleanup/</loc>
-     <lastmod>2020-09-16</lastmod>
+     <lastmod>2021-10-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://infrastructure-identity.awssecworkshops.com/contribute/</loc>
-     <lastmod>2020-09-16</lastmod>
+     <lastmod>2021-10-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://infrastructure-identity.awssecworkshops.com/license/</loc>
-     <lastmod>2020-09-16</lastmod>
+     <lastmod>2021-10-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
