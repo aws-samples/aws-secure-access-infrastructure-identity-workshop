@@ -26,7 +26,7 @@ In the last module we will terminate the instances we built and delete the Cloud
 ### Task 2: Delete the AWS CloudFormation stack
 
 1.Go to the
-<a href="https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks" target="_blank">CloudFormation Console</a>. Select 'InfrastructureIdentity-Env-Setup', select **Actions** and click on **Delete Stack**. At the prompt, select **Yes, Delete**
+<a href="https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks" target="_blank">CloudFormation Console</a>. Select the stack that has the description 'Infrastructure Identity in AWS workshop - AWS Systems Manager Sessions Manager, EC2 Instance Connect.', select **Actions** and click on **Delete Stack**. At the prompt, select **Yes, Delete**
 
 ### Task 3: Delete the IAM User
 1.Go to the <a href="https://console.aws.amazon.com/iam/home?#/home" target="_blank">IAM console</a>, click on **Users**, select **MyWorkshopUser** and delete.

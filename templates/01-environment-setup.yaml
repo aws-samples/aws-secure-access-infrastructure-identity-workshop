@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-# Description: VPC Infrastructure setup and deployment of Cloud9 IDE
+Description: Infrastructure Identity in AWS workshop - AWS Systems Manager Sessions Manager, EC2 Instance Connect.
 # aws cloudformation validate-template --template-body file://01-environment-setup.yaml  --profile <profile-name>
 # aws cloudformation create-stack --stack-name InfrastructureIdenity-Env-Setup --template-body file://01-environment-setup.yaml  --profile <profile-name>
 
