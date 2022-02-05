@@ -8,7 +8,7 @@ This workshop is designed to help you get familiar with AWS Security services an
 * **Level**: Intermediate
 * **Duration**: 2 hours
 * **<a href="https://www.nist.gov/cyberframework/online-learning/components-framework" target="_blank">CSF Functions</a>**: Protect and Detect
-* **<a href="https://d0.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf" target="_blank">CAF Components</a>**: Preventative, Detective
+* **<a href="https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-caf-security-perspective.html" target="_blank">CAF Components</a>**: Preventative, Detective
 * **<a href="https://awssecworkshops.com/getting-started/" target="_blank">Prerequisites</a href>**: AWS Account, Admin IAM User
 
 ## Scenario
